@@ -9,10 +9,10 @@
 
 ## 🎯 About Me
 
-💡 I am in the early stages of mastering GitHub and version control, laying the groundwork for future coding skills.
-🎓 In the near future, I plan to begin my journey into HTML, CSS, and JavaScript.
-🤖 Creative thinking and tackling challenges are two things I truly enjoy.
-🔥 I am excited about the opportunity to develop my very first real-world application.
+-💡 I am in the early stages of mastering GitHub and version control, laying the groundwork for future coding skills.
+-🎓 In the near future, I plan to begin my journey into HTML, CSS, and JavaScript.
+-🤖 Creative thinking and tackling challenges are two things I truly enjoy.
+-🔥 I am excited about the opportunity to develop my very first real-world application.
 ---
 
 ## 🛠️ Tech Stack
