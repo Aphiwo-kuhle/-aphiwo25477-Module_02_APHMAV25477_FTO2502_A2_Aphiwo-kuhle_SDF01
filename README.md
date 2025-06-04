@@ -9,11 +9,10 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
-
+💡 I am in the early stages of mastering GitHub and version control, laying the groundwork for future coding skills.
+🎓 In the near future, I plan to begin my journey into HTML, CSS, and JavaScript.
+🤖 Creative thinking and tackling challenges are two things I truly enjoy.
+🔥 I am excited about the opportunity to develop my very first real-world application.
 ---
 
 ## 🛠️ Tech Stack
