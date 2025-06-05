@@ -78,4 +78,5 @@ Here are some of my milestone projects (to be updated as I progress!):
 💡 I love learning new things and can't wait to build my first website!
 
 🏆 GitHub Stats
-GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
