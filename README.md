@@ -50,7 +50,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed.
+🔹 **Status:** ✅ Completed
 
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
@@ -72,6 +72,10 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email:(aphiwokuhle2223gmail.com)
+📧 Email: aphiwokuhlem2223@gmail.com
 
----
+🚀 Fun Fact
+💡 I love learning new things and can't wait to build my first website!
+
+🏆 GitHub Stats
+GitHub Stats
